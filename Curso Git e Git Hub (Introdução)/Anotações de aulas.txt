@@ -1,0 +1,4 @@
+Comandos do git: 
+Git init
+Git add
+Git commit
